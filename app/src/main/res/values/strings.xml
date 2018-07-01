@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Book registration</string>
+    <string name="navigation_drawer_open">Open navigation</string>
+    <string name="navigation_drawer_close">Close navigation</string>
+    <string name="nav_header_title">Book registration</string>
+    <string name="nav_header_subtitle">www.barcellosegoedert.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- Menu -->
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_about">About</string>
+    <string name="nav_item_categories">Categories</string>
+    <string name="nav_item_books">Books</string>
+    <string name="nav_item_exit">Exit</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <!-- Page Category -->
+    <string name="page_category_title">Category Manager</string>
+    <string name="page_category_title2">Categories list</string>
+    <string name="page_category_form_text_code">Code</string>
+    <string name="page_category_form_text_decription">Description</string>
+    <string name="page_category_form_button_save">Save</string>
+    <string name="page_category_form_button_delete">Delete</string>
+    <string name="page_category_form_button_clear">Clear</string>
+
+    <!-- Page Book -->
+    <string name="page_book_title">Book Manager</string>
+    <string name="page_book_title_filter">Filter</string>
+    <string name="page_book_button_find">Find</string>
+    <string name="page_book_text_tile">Title</string>
+    <string name="page_book_title_list">Book list</string>
+
+    <!-- Page Category -->
+    <string name="page_book_edit_title">Book Register</string>
+    <string name="page_book_edit_text_code">Code</string>
+    <string name="page_book_edit_text_category">Category</string>
+    <string name="page_book_edit_text_title">Title</string>
+    <string name="page_book_edit_text_author">Author</string>
+    <string name="page_book_edit_text_decription">Description</string>
+    <string name="page_book_edit_button_save">Save</string>
+    <string name="page_book_edit_button_clear">Clear</string>
+
+    <!-- Page About -->
+    <string name="page_about_title">About</string>
+    <string name="page_about_content">
+        Nam eu arcu porttitor neque vehicula venenatis in eu urna. Sed eleifend, mi nec aliquam molestie, libero ante gravida lorem, nec sodales eros nibh id turpis. Nam feugiat vehicula enim, ut bibendum augue fringilla sed. Nulla ac imperdiet sapien, sit amet posuere lectus. Donec et auctor sem. Morbi vitae neque massa. Nam vel dapibus ante, vel fringilla eros. Cras eu massa lorem.\n\n
+        Vestibulum aliquam sit amet tortor tempor consectetur. Cras quis lobortis odio. Donec vitae molestie arcu. Fusce pretium consectetur viverra. Proin tincidunt lorem non urna posuere, vitae iaculis mauris dapibus. Ut ut pulvinar nulla, eu auctor metus. Donec ac arcu viverra, elementum elit ac, pellentesque nulla. Aenean tristique finibus enim a volutpat. Praesent rutrum diam eget neque aliquam, ac posuere nulla mattis. Praesent neque magna, luctus eu auctor quis, mollis id enim. Donec eget ullamcorper erat. Pellentesque id lectus ac orci dignissim elementum.
+        Integer sit amet faucibus erat, eget imperdiet enim. Quisque cursus fringilla urna, vel iaculis lacus eleifend ut. Etiam tempor, dui sed finibus tincidunt, risus magna fermentum lectus, at placerat orci tortor vel tortor. Nullam quis odio id arcu feugiat vestibulum. Ut massa purus, ultricies at suscipit in, tristique in ligula. Vivamus aliquam magna non justo elementum, eu commodo diam semper. Sed turpis risus, eleifend ac sem eu, ultrices consequat ante.
+        Ut felis quam, pulvinar id ultricies quis, fermentum eget turpis. Cras non egestas justo, ac suscipit risus. Donec mollis ante convallis, tincidunt erat ac, dictum ex. Sed ac pretium dui. Sed non convallis tellus. In ligula tellus, scelerisque quis dapibus quis, eleifend a quam. Curabitur sit amet mattis lacus.
+        Morbi ligula neque, pharetra quis cursus non, rhoncus at sem. Cras efficitur ornare nibh, sagittis rutrum neque pellentesque ut. Morbi cursus mauris eget porttitor tristique. Morbi ut consectetur magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in augue lacus. Nunc sem turpis, malesuada vel justo tristique, pharetra hendrerit ipsum.
+    </string>
+
+
+    <!-- Alert -->
+    <string name="dialog_alert_title">Alert!</string>
+    <string name="dialog_alert_button_ok">OK</string>
+    <string name="dialog_alert_button_yes">YES</string>
+    <string name="dialog_alert_button_no">NO</string>
+
+</resources>
+
+
